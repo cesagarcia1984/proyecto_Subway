@@ -1,7 +1,7 @@
 <h1 align="center"> Proyecto-SUBWAY </h1>
 
 
-![Imagen del proyecto Subway](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/WhatsApp%20Image%202024-02-14%20at%2011.06.32.jpeg)
+![Imagen del proyecto Subway](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/imagensub.jpeg)
 
 
 
