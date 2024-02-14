@@ -1,7 +1,7 @@
 ![Imagen del proyecto Subway](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/imagensub.jpeg)
 
 
-        <h1 align="center"> Proyecto-SUBWAY </h1>
+<h1 align="center"> Proyecto-SUBWAY </h1>
 
 
 
