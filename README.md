@@ -1,5 +1,7 @@
 
+## Imagen del proyecto
 
+![Imagen del proyecto Subway](WhatsApp Image 2024-02-14 at 11.06.32.jpeg)
 
 <h2 align="center"> Proyecto-SUBWAY </h2>
 
