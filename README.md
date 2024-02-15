@@ -61,9 +61,6 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
 
 ## Equipo Data Studio18
 
-[![Cesar Garcia][linkedin-shield]][linkedin.com/in/cesar-augusto-garcía-galeano-2190bb200]
-[![Florencia Sandoval][linkedin-shield]][https://www.linkedin.com/in/ana-florencia-sandoval-876615286/]
-[![Anabel Gimenez][linkedin-shield]][]
-[![Blas Fernado Pacios][linkedin-shield]][]
+
 
 
