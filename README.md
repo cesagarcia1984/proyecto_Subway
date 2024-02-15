@@ -49,4 +49,6 @@ es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a tra
 
 ## Stack tecnologico
 
+![Imagen del proyecto Subway](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/stack%20tecnologico.jpeg)
+
 
