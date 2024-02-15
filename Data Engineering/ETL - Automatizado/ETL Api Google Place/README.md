@@ -1,6 +1,5 @@
-div align="center">
-
-![wink](https://github.com/cesagarcia1984/proyecto_Subway/blob/5f07e6bbe88d6eb52bb98dc9f3717e792d9500fb/Imagen/Logo_DataStudio18.jpeg)
+<div style="text-align: center;">
+  <img src="https://github.com/cesagarcia1984/proyecto_Subway/blob/5f07e6bbe88d6eb52bb98dc9f3717e792d9500fb/Imagen/Logo_DataStudio18.jpeg" style="width: 100%;" alt="wink">
 </div>
 
 # ETL - Automatizacion de Google Places API 
@@ -22,7 +21,7 @@ div align="center">
 ## Flujo de Trabajo (Pipeline)
 La obtencion de datos, por medios de la API, permite mejorar los procesos posteriores debido al flujo continuo de Datos:
 
-![pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/9e3091720adf4532c8996f0cbbd8c48bab716e92/src/Pipeline%20API.png)
+![pipeline]()
 
 
 
@@ -31,17 +30,20 @@ Generamos una tarea Programada, a traves de GCP Scheduler, la cual nos permite o
 
 
 ## Google Cloud Functions
-Para extraer los datos, se creó una función en Cloud Functions (API-Place-Google) que por medio de una API Key, extrae los datos directamente desde la API de Google Places y almacena la información en BigQuery cada vez que se ejecuta la función.
+Para extraer los datos, se creó una función en Cloud Functions (API-Place-Google) que por medio de una API Key, extrae los datos directamente desde la API de Google Places, transforma y almacena la información en BigQuery cada vez que se ejecuta la función.
 
 
 ## Big Query - Data Warehouse
-El proceso de ETL devuelve una tabla llamada "Metadata", que se almacena en el Data Warehouse en Big Query dentro de un schema llamado "API_Google_Place", del cual se puede extraer la información con consultas SQL y conectándose al cliente de Big Query.
+Los Datos extraidos de son almacenados en Big Query, incrementando el DataWarehouse. Loa datos son ingestados en el dataset llamado 'API_Google_Maps', en el cual se encuentra una Tabla denominada 'api_tabla'.
 
 
 ## GIF
 En este GIF podra observar el proceso de llamado de la API a traves GC Scheduler y como se guarda la información en el Data Warehouse alojado Big Query.
 
+![wink]()
 
+
+  
 ## Tecnologías
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,7 +54,4 @@ En este GIF podra observar el proceso de llamado de la API a traves GC Scheduler
 - Cloud Scheduler
 
 <div align="center">
-
-![wink](https://github.com/claudiacaceresv/pf_yelp_google/blob/ecae7e03590019bb0db5c0c61810e27e209499cb/src/Video%20ETL%20API.gif)
-
 </div>
