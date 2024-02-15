@@ -94,7 +94,7 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
       <td>Blas Fernando Pacios</td>
       <td>blasferp@gmail.com</td>
       <td>Data Science | Data Analyst</td>
-      <td><a href="https://www.linkedin.com/in/blasfernandopacios/"><img src="Imagen/linkedin.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+      <td><a href="https://www.linkedin.com/in/blas-fernando-pacios-14a46a280//"><img src="Imagen/linkedin.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
   </tbody>
 </table>
