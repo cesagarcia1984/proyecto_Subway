@@ -60,32 +60,40 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
 
 
 ## Equipo Data Studio18
-
 <table>
   <thead>
     <tr>
       <th>Nombre</th>
+      <th>Correo electrónico</th>
+      <th>Rol</th>
       <th>LinkedIn</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Cesar Garcia</td>
+      <td>Gorotrader84@gmail.com</td>
+      <td>Data Engineer | Machine Learning Engineer</td>
       <td><a href="https://www.linkedin.com/in/cesargarcia/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
       <td>Florencia Sandoval</td>
-      <td><a href="https://www.linkedin.com/in/florenciasandoval/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+      <td>florenciasandova1993@gmail.com.com</td>
+      <td>Machine Learning Engineer | Data Analyst</td>
+      <td><a href="[https://www.linkedin.com/in/florenciasandoval](https://www.linkedin.com/in/ana-florencia-sandoval-876615286/)/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
       <td>Anabel Gimenez</td>
+      <td>Anabeljimenezh19@gmail.com</td>
+      <td>Data Engineer | Data Science</td>
       <td><a href="https://www.linkedin.com/in/anabelgimenez/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
       <td>Blas Fernando Pacios</td>
+      <td>blasferp@gmail.com</td>
+      <td>Data Science | Data Analyst
+</td>
       <td><a href="https://www.linkedin.com/in/blasfernandopacios/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
   </tbody>
 </table>
-
-
