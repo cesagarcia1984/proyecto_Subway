@@ -61,9 +61,31 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
 
 ## Equipo Data Studio18
 
-[Cesar Garcia]  : Gorotrader84@gmail.com                                                                                                     
-[Florencia Sandoval] : florenciasandoval1993@gmail.com
-[Anabel Gimenez]: Anabeljimenezh19@gmail.com
-[Blas Fernando Pacios]: blasferp@gmail.com
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>LinkedIn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cesar Garcia</td>
+      <td><a href="https://www.linkedin.com/in/cesargarcia/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+    </tr>
+    <tr>
+      <td>Florencia Sandoval</td>
+      <td><a href="https://www.linkedin.com/in/florenciasandoval/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+    </tr>
+    <tr>
+      <td>Anabel Gimenez</td>
+      <td><a href="https://www.linkedin.com/in/anabelgimenez/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+    </tr>
+    <tr>
+      <td>Blas Fernando Pacios</td>
+      <td><a href="https://www.linkedin.com/in/blasfernandopacios/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 
