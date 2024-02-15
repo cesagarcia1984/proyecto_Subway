@@ -80,7 +80,7 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
       <td>Florencia Sandoval</td>
       <td>florenciasandova1993@gmail.com.com</td>
       <td>Machine Learning Engineer | Data Analyst</td>
-      <td><a href="[https://www.linkedin.com/in/florenciasandoval](https://www.linkedin.com/in/ana-florencia-sandoval-876615286/)/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+      <td><a href="[[https://www.linkedin.com/in/florenciasandoval](https://www.linkedin.com/in/ana-florencia-sandoval-876615286/)](https://www.linkedin.com/in/ana-florencia-sandoval-876615286/)/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
       <td>Anabel Gimenez</td>
