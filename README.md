@@ -61,6 +61,9 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
 
 ## Equipo Data Studio18
 
-
+-Cesar Garcia  : Gorotrader84@gmail.com
+-Florencia Sandoval : florenciasandoval1993@gmail.com
+-Anabel Gimenez: Anabeljimenezh19@gmail.com
+-Blas Fernando Pacios: blasferp@gmail.com
 
 
