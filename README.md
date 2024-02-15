@@ -60,6 +60,8 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
 
 
 ## Equipo Data Studio18
+
+
 <table>
   <thead>
     <tr>
@@ -78,9 +80,9 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
     </tr>
     <tr>
       <td>Florencia Sandoval</td>
-      <td>florenciasandova1993@gmail.com.com</td>
+      <td>florenciasandoval1993@gmail.com</td>
       <td>Machine Learning Engineer | Data Analyst</td>
-      <td><a href="[[https://www.linkedin.com/in/ana-florencia-sandoval-876615286/](https://www.linkedin.com/in/ana-florencia-sandoval-876615286/)](https://www.linkedin.com/in/ana-florencia-sandoval-876615286/)/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+      <td><a href="https://www.linkedin.com/in/ana-florencia-sandoval-876615286/ **(tu nombre de usuario)**"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
       <td>Anabel Gimenez</td>
@@ -91,9 +93,9 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
     <tr>
       <td>Blas Fernando Pacios</td>
       <td>blasferp@gmail.com</td>
-      <td>Data Science | Data Analyst
-</td>
+      <td>Data Science | Data Analyst</td>
       <td><a href="https://www.linkedin.com/in/blasfernandopacios/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
   </tbody>
 </table>
+
