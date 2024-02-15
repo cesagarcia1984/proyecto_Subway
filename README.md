@@ -7,7 +7,7 @@
 
 - [Objetivos del Proyecto](#objetivos-del-proyecto)
 - [Alcance del Proyecto](#alcance-del-proyecto)
-- [Stack Tecnológico](#Stack tecnologico)
+- [Stack Tecnológico](#Stack-tecnologico)
 - [Dashboard](#dashboard)
 - [Metodología](#metodología)
 - [Cloud - Guía General](#cloud---guía-general)
@@ -50,5 +50,11 @@ es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a tra
 ## Stack tecnologico
 
 ![Imagen del proyecto Subway](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/stack%20tecnologico.jpeg)
+
+
+
+## Diagrama de Entidad-Relación (ERD)
+
+Para visualizar la estructura de la base de datos utilizada en este proyecto, se creó un Diagrama de Entidad-Relación (DER).diagrama en formato PDF: [Diagrama entidad-relación]().
 
 
