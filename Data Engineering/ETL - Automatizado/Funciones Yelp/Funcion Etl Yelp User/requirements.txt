@@ -1,0 +1,6 @@
+functions-framework==3.*
+fsspec
+gcsfs
+pandas
+pandas-gbq
+numpy

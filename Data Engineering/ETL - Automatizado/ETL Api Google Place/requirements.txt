@@ -1,0 +1,10 @@
+functions-framework==3.*
+gcsfs
+fsspec
+pandas
+pandas-gbq
+pyarrow
+fastparquet
+textblob
+db-dtypes
+requests
