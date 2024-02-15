@@ -32,3 +32,16 @@ TECNOLOGIAS:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+
+
+
+
+
+## Objetivos del Proyecto
+
+
+
+Somos "DATASTUDIO18" una consultora de datos especializada en ofrecer soluciones estratégicas personalizadas para empresas en diversos sectores. Nuestra experiencia abarca análisis de mercado, con un enfoque particular en las necesidades y requerimientos de los usuarios. Nuestro compromiso es impulsar el crecimiento y la eficiencia, utilizando herramientas avanzadas de análisis de datos y Machine Learning. ”
+nuestro objetivo con nuestro cliente
+es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a través del análisis de los reviews en Google Maps y Yelp con el uso de herramientas de Data Science, Análisis de sentimiento y Machine Learning.
