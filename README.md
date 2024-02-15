@@ -76,7 +76,7 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
       <td>Cesar Garcia</td>
       <td>Gorotrader84@gmail.com</td>
       <td>Data Engineer | Machine Learning Engineer</td>
-      <td><a href="https://www.linkedin.com/in/cesargarcia/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+      <td><a href="linkedin.com/in/cesar-augusto-garcía-galeano-2190bb200/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
       <td>Florencia Sandoval</td>
