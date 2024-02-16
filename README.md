@@ -18,7 +18,7 @@
 - [Archivos Complementarios](#archivos-complementarios)
 - [Modelo de Recomendación de Machine Learning](#modelo-de-recomendación-de-machine-learning)
 - [Sistema de Retroalimentación de Sugerencias](#sistema-de-retroalimentación-de-sugerencias)
-- [Colaboradores](#Equipo-datastudio18)
+- [Colaboradores](#Equipo-Data-Studio18)
 - [Video](#video)
 
 
@@ -111,9 +111,11 @@ es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a tra
 
 
 
+
 ## Diagrama de Entidad-Relación (ERD)
 
-Para visualizar la estructura de la base de datos utilizada en este proyecto, se creó un Diagrama de Entidad-Relación (DER).diagrama en formato PDF: [Diagrama entidad-relación]().
+Para visualizar la estructura de la base de datos utilizada en este proyecto, se creó un Diagrama de Entidad-Relación (DER).diagrama en formato PDF: [Diagrama entidad-relación](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/Imagen/entidad%20relacion.png).
+
 
 
 ## Equipo Data Studio18

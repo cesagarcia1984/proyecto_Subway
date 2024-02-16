@@ -1,6 +1,5 @@
-<div align="center">
-
-![wink]()
+<div style="text-align: center;">
+  <img src="https://github.com/cesagarcia1984/proyecto_Subway/blob/5f07e6bbe88d6eb52bb98dc9f3717e792d9500fb/Imagen/Logo_DataStudio18.jpeg" style="width: 100%;" alt="wink">
 </div>
 
 # Desarrollo de ETL automatizado
@@ -21,35 +20,31 @@
 
 ## Pipeline
 
-Para el proceso de extracción, transformación y carga de los datos de este proyecto, se siguió el flujo a continuación:
+En la siguente imagen se puede observar los pasos que se siguen para la Extraccion, Transformacion y Carga de los datos:
 
 ![Pipeline_Automatizado](https://github.com/cesagarcia1984/proyecto_Subway/blob/f7c045ca53065ae25fe2075a9330e6143417ae17/Imagen/Pipeline_Automatizado.PNG)
 
 
 ## Data Lake
 
-El primer componente de nuestra estructura fue la creación de un Data Lake utilizando Cloud Storage de GCP. En esta etapa, realizamos la carga manual de los datos crudos en el Data Lake. Esto nos permitió almacenar grandes volúmenes de datos de manera segura y asequible, manteniendo su integridad y disponibilidad para futuros análisis.
-
-![datalakepng]()
+La generacion del Data Lake se inicio con la ingesta manual de los Dataset, posterior a su transformacion. Se cargaron en el Service de Google Cloud Storage, en el Bucket generado. Los Dataset que fueron ingresados para formar el Data Lake son los descargados de Google Maps y de Yelp.
 
 
 ## Cloud Function
 
-Para automatizar el proceso ETL, implementamos Google Cloud Functions. Configuramos un activador que se desencadena automáticamente cuando se realiza una carga manual de datos en Cloud Storage. Este activador inicia el proceso ETL, que incluye la validación, transformación, limpieza y carga de datos en nuestro Data Warehouse.
+Posterior a la creacion manual del Data Lake, se utilizo el servicio Google Cloud Function, en el cual se generaron varias funciones que permiten el procesamiento de manera Automatica, cada vez que ingresa un nuevo archivo al Data Lake. Esto se pudo lograr a traves de la creacion de 'Triggers', disparadores que una vez activados comienzan con la transformacion automatica de los archivos para enviarlos al servicio de Big Query.
 
-![cfuncpng]()
+![Funciones](https://github.com/cesagarcia1984/proyecto_Subway/blob/85a7e7eb344ede4c3f7645cca19dbc582d604b2e/Imagen/Funciones.PNG)
 
 
 ## Data Warehouse
 
-El componente central de nuestra estructura de datos es BigQuery. Utilizamos BigQuery como nuestro Data Warehouse, donde se almacenan y gestionan todos los datos procesados después del ETL. Esta plataforma escalable y de alto rendimiento nos permite ejecutar consultas complejas y obtener resultados rápidos, lo que facilita la extracción de información valiosa.
-
-![bigquerypng]()
+Utilizamos BigQuery como nuestro Data Warehouse, donde se almacenan y gestionan todos los datos procesados después del ETL. Esta plataforma escalable y de alto rendimiento nos permite ejecutar consultas complejas y obtener resultados rápidos, lo que facilita la extracción de información valiosa.
 
 
 ## Video
 
-En el video a continuación, podrás observar cómo se activa la función del ETL al cargar un archivo en nuestro Data Lake. Como resultado de este proceso, los datos procesados se almacenan en nuestro Data Warehouse. Te invitamos a hacer clic en el logotipo de YouTube a continuación para visualizar la demostración.
+En el video a continuación,se puede observar como se produce el proceso de ETL de manera Automatica. Desde el ingreso del dato en el Data Lake, su transformacion por medio de las funciones como su paso a constituir el Data Warehouse.
 
 <div align="center">
   
