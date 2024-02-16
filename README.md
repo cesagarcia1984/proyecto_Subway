@@ -13,7 +13,7 @@
 - [Cloud - Guía General](#cloud---guía-general)
 - [Deploy en Streamlit](#deploy-en-streamlit)
 - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
-- [Diagrama de Entidad-Relación (ERD)](#[Diagrama entidad-relación])
+- [Diagrama de Entidad-Relación (ERD)](#diagrama-de-entidad-relación-erd)
 - [Diccionario de Datos](#diccionario-de-datos)
 - [Archivos Complementarios](#archivos-complementarios)
 - [Modelo de Recomendación de Machine Learning](#modelo-de-recomendación-de-machine-learning)
