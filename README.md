@@ -101,7 +101,7 @@ El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA),
 
 
 
-## Metodología
+## Dashboard
 ![dashboard]()
 
 
