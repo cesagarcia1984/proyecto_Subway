@@ -1,6 +1,5 @@
-<div align="center">
-
-![wink]()
+<div style="text-align: center;">
+  <img src="https://github.com/cesagarcia1984/proyecto_Subway/blob/5f07e6bbe88d6eb52bb98dc9f3717e792d9500fb/Imagen/Logo_DataStudio18.jpeg" style="width: 100%;" alt="wink">
 </div>
 
 # Desarrollo de ETL automatizado
