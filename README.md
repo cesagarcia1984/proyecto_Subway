@@ -15,7 +15,6 @@
 - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
 - [Diagrama de Entidad-Relación (ERD)](#diagrama-de-entidad-relación-erd)
 - [Diccionario de Datos](#diccionario-de-datos)
-- [Archivos Complementarios](#archivos-complementarios)
 - [Modelo de Recomendación de Machine Learning](#modelo-de-recomendación-de-machine-learning)
 - [Colaboradores](#Equipo-Data-Studio18)
 - [Video](#video)
@@ -116,6 +115,11 @@ El proyecto seguirá la metodología Scrum para la gestión y desarrollo
 ## Diagrama de Entidad-Relación (ERD)
 
 Para visualizar la estructura de la base de datos utilizada en este proyecto, se creó un Diagrama de Entidad-Relación (DER).diagrama en formato PDF: [Diagrama entidad-relación](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/Imagen/entidad%20relacion.png).
+
+
+# modelo-de-recomendación-de-machine-learning
+
+![MODELODEML]https://proyectosubwaydatastudio18.streamlit.app/Introduccion
 
 
 
