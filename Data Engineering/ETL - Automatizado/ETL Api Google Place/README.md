@@ -34,13 +34,13 @@ Para extraer los datos, se creó una función en Cloud Functions (API-Place-Goog
 
 
 ## Big Query - Data Warehouse
-Los Datos extraidos de son almacenados en Big Query, incrementando el DataWarehouse. Loa datos son ingestados en el dataset llamado 'API_Google_Maps', en el cual se encuentra una Tabla denominada 'api_tabla'.
+Los Datos extraidos de son almacenados en Big Query, incrementando el Data Lake en storage. Los datos, luego son ingestados en el dataset llamado 'API_Google_Maps', en el cual se encuentra una Tabla denominada 'api_tabla' para actualizar el DataWarehouse.
 
 
-## GIF
-En este GIF podra observar el proceso de llamado de la API a traves GC Scheduler y como se guarda la información en el Data Warehouse alojado Big Query.
+## Video
+En este Video podra observar el proceso de llamado de la API a traves GC Scheduler y como se guarda la información en el Data Warehouse alojado Big Query.
 
-![wink]()
+![wink](https://youtu.be/rXuNvYnQRnU)
 
 
   
