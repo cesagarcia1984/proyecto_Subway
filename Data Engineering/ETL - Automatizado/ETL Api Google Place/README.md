@@ -13,7 +13,7 @@
     <li><a href="#Google Cloud Scheduler">Google Cloud Scheduler</a></li>
     <li><a href="#Google Cloud Functions">Google Cloud Functions</a></li>
     <li><a href="#Big Query - Data Warehouse">Big Query - Data Warehouse</a></li>
-    <li><a href="#GIF">GIF</a></li>
+    <li><a href="#Video">Video</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>    
   </ol>
 </details>
