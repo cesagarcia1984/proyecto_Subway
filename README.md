@@ -17,7 +17,6 @@
 - [Diccionario de Datos](#diccionario-de-datos)
 - [Archivos Complementarios](#archivos-complementarios)
 - [Modelo de Recomendación de Machine Learning](#modelo-de-recomendación-de-machine-learning)
-- [Sistema de Retroalimentación de Sugerencias](#sistema-de-retroalimentación-de-sugerencias)
 - [Colaboradores](#Equipo-Data-Studio18)
 - [Video](#video)
 
@@ -100,6 +99,10 @@ El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA),
 
 ![Imagen del proyecto Subway]( )
 
+
+
+## Metodología
+![dashboard]()
 
 
 
