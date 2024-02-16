@@ -31,7 +31,9 @@ TECNOLOGIAS:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Matplotlib](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.multiplicalia.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fgoogle-cloud.jpg&tbnid=r8yAzQe_qg6DsM&vet=12ahUKEwinhuT9o7CEAxVyILkGHTz-BnwQMygBegQIARB2..i&imgrefurl=https%3A%2F%2Fwww.multiplicalia.com%2Fgoogle-cloud%2F&docid=ZLbLDHPN6tM3pM&w=1384&h=831&q=google%20cloud&ved=2ahUKEwinhuT9o7CEAxVyILkGHTz-BnwQMygBegQIARB2)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
 
 
 
