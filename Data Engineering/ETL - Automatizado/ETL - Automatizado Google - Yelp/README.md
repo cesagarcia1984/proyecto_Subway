@@ -29,21 +29,17 @@ En la siguente imagen se puede observar los pasos que se siguen para la Extracci
 
 La generacion del Data Lake se inicio con la ingesta manual de los Dataset, posterior a su transformacion. Se cargaron en el Service de Google Cloud Storage, en el Bucket generado. Los Dataset que fueron ingresados para formar el Data Lake son los descargados de Google Maps y de Yelp.
 
-![datalakepng]()
-
 
 ## Cloud Function
 
 Posterior a la creacion manual del Data Lake, se utilizo el servicio Google Cloud Function, en el cual se generaron varias funciones que permiten el procesamiento de manera Automatica, cada vez que ingresa un nuevo archivo al Data Lake. Esto se pudo lograr a traves de la creacion de 'Triggers', disparadores que una vez activados comienzan con la transformacion automatica de los archivos para enviarlos al servicio de Big Query.
 
-![cfuncpng]()
+![Funciones](https://github.com/cesagarcia1984/proyecto_Subway/blob/85a7e7eb344ede4c3f7645cca19dbc582d604b2e/Imagen/Funciones.PNG)
 
 
 ## Data Warehouse
 
 Utilizamos BigQuery como nuestro Data Warehouse, donde se almacenan y gestionan todos los datos procesados después del ETL. Esta plataforma escalable y de alto rendimiento nos permite ejecutar consultas complejas y obtener resultados rápidos, lo que facilita la extracción de información valiosa.
-
-![bigquerypng]()
 
 
 ## Video
