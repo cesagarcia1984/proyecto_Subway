@@ -119,7 +119,7 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
 
 # modelo-de-recomendación-de-machine-learning
 
-![MODELODEML]https://proyectosubwaydatastudio18.streamlit.app/Introduccion
+https://proyectosubwaydatastudio18.streamlit.app/Introduccion
 
 
 
