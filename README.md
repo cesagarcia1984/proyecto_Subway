@@ -59,17 +59,7 @@ es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a tra
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 5px;
-        }
-        th {
-            text-align: center;
-        }
+        
     </style>
 </head>
 <body>
