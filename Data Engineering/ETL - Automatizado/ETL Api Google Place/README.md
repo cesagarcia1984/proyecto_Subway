@@ -40,9 +40,13 @@ Los Datos extraidos de son almacenados en Big Query, incrementando el Data Lake 
 ## Video
 En este Video podra observar el proceso de llamado de la API a traves GC Scheduler y como se guarda la información en el Data Warehouse alojado Big Query.
 
-![wink](https://youtu.be/rXuNvYnQRnU)
 
+<div align="center">
 
+  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/rXuNvYnQRnU)
+
+</div>
   
 ## Tecnologías
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
