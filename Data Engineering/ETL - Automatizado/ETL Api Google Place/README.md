@@ -21,7 +21,7 @@
 ## Flujo de Trabajo (Pipeline)
 La obtencion de datos, por medios de la API, permite mejorar los procesos posteriores debido al flujo continuo de Datos:
 
-![pipeline]()
+![Pipeline_Api](https://github.com/cesagarcia1984/proyecto_Subway/blob/98c36f2e14694647e82112f4a16a8c8e7e831a16/Imagen/Pipeline_Api.PNG)
 
 
 
@@ -43,6 +43,7 @@ En este Video podra observar el proceso de llamado de la API a traves GC Schedul
 
 <div align="center">
 
+![Pipeline_Api](https://github.com/cesagarcia1984/proyecto_Subway/blob/98c36f2e14694647e82112f4a16a8c8e7e831a16/Imagen/Pipeline_Api.PNG)
   
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/rXuNvYnQRnU)
 
