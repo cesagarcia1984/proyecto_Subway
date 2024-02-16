@@ -100,7 +100,7 @@ El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA),
 
 ## Stack tecnologico
 
-![Imagen del proyecto Subway](stack tecnologico.jpeg )
+![Imagen del proyecto Subway](stack tecnologico.jpeg)
 
 
 
