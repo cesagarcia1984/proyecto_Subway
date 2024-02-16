@@ -18,7 +18,7 @@
 - [Archivos Complementarios](#archivos-complementarios)
 - [Modelo de Recomendación de Machine Learning](#modelo-de-recomendación-de-machine-learning)
 - [Sistema de Retroalimentación de Sugerencias](#sistema-de-retroalimentación-de-sugerencias)
-- [Colaboradores](#Equipo-datastudio18)
+- [Colaboradores](#Equipo-Data-Studio18)
 - [Video](#video)
 
 
