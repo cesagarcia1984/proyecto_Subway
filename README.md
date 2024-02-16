@@ -48,9 +48,64 @@ nuestro objetivo con nuestro cliente
 es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a través del análisis de los reviews en Google Maps y Yelp con el uso de herramientas de Data Science, Análisis de sentimiento y Machine Learning.
 
 
+
+### Kpi´s
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla de objetivos KPI</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+        th {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>Tabla de objetivos KPI</h2>
+    <table>
+        <tr>
+            <th>KPI</th>
+            <th>Objetivo</th>
+        </tr>
+        <tr>
+            <td>Aumentar un 20% la cantidad de reseñas positivas del trimestre actual respecto al trimestre anterior.</td>
+            <td>Aumentar las reseñas positivas en un 20%.</td>
+        </tr>
+        <tr>
+            <td>Aumentar en un 10% la cantidad de reseñas del trimestre actual respecto al trimestre anterior.</td>
+            <td>Aumentar la cantidad de reseñas en un 10%.</td>
+        </tr>
+        <tr>
+            <td>Aumentar en 0.3 puntos el promedio trimestral de puntuación según el promedio del trimestre anterior</td>
+            <td>Aumentar el promedio de puntuación en 0.3 puntos.</td>
+        </tr>
+        <tr>
+            <td>Disminuir en 10% las reseñas negativas relacionadas con las formas de pago del trimestre actual con el anterior</td>
+            <td>Disminuir las reseñas negativas relacionadas con las formas de pago en un 10%.</td>
+        </tr>
+        <tr>
+            <td>Aumentar en 10% las reseñas positivas relacionadas con las formas de servicio/atención del trimestre actual con el anterior</td>
+            <td>Aumentar las reseñas positivas relacionadas con las formas de servicio/atención en un 10%.</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
 ## Stack tecnologico
 
-![Imagen del proyecto Subway](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/stack%20tecnologico.jpeg)
+![Imagen del proyecto Subway]( )
 
 
 
