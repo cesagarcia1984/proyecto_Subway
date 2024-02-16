@@ -113,7 +113,22 @@ es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a tra
 
 ## Diagrama de Entidad-Relación (ERD)
 
-Para visualizar la estructura de la base de datos utilizada en este proyecto, se creó un Diagrama de Entidad-Relación (DER).diagrama en formato PDF: [Diagrama entidad-relación]([DER_yelp_google.pd](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/Imagen/entidad%20relacion.png)f).
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagrama de Entidad-Relación</title>
+</head>
+<body>
+    <h2>Diagrama de Entidad-Relación (ERD)</h2>
+    <p>Para visualizar la estructura de la base de datos utilizada en este proyecto, se creó un Diagrama de Entidad-Relación (DER):</p>
+    <a href="https://github.com/cesagarcia1984/proyecto_Subway/blob/main/Imagen/entidad%20relacion.png">
+        <img src="https://github.com/cesagarcia1984/proyecto_Subway/blob/main/Imagen/entidad%20relacion.png" alt="Diagrama de Entidad-Relación">
+    </a>
+</body>
+</html>
+
 
 
 ## Equipo Data Studio18
