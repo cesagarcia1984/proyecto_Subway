@@ -105,6 +105,9 @@ El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA),
 ![dashboard](tablero.png)
 
 
+## Metodología
+
+El proyecto seguirá la metodología Scrum para la gestión y desarrollo
 
 ## Diagrama de Entidad-Relación (ERD)
 
