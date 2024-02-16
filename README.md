@@ -51,6 +51,8 @@ es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a tra
 
 ### Kpi´s
 
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
