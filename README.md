@@ -113,7 +113,8 @@ El proyecto seguirá la metodología Scrum para la gestión y desarrollo
 
 Para visualizar la estructura de la base de datos utilizada en este proyecto, se creó un Diagrama de Entidad-Relación (DER).diagrama en formato PDF: [Diagrama entidad-relación](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/Imagen/entidad%20relacion.png).
 
-
+![D-E-R](https://github.com/cesagarcia1984/proyecto_Subway/blob/7582fe3bc231f8b2b2920e8454f3deca7ddace1a/Imagen/Diagrama%20Entidad%20Relacion.png
+)
 # modelo-de-recomendación-de-machine-learning
 
 https://proyectosubwaydatastudio18.streamlit.app/Introduccion
