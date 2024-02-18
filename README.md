@@ -146,7 +146,7 @@ https://proyectosubwaydatastudio18.streamlit.app/Introduccion
       <td><a href="https://www.linkedin.com/in/ana-florencia-sandoval-876615286/ **(tu nombre de usuario)**"><img src="Imagen/linkedin.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
-      <td>Anabel Gimenez</td>
+      <td>Anabel Jimenez</td>
       <td>Anabeljimenezh19@gmail.com</td>
       <td>Data Engineer | Data Science</td>
       <td><a href="https://www.linkedin.com/in/anabelgimenez/"><img src="Imagen/linkedin.png" alt="LinkedIn logo" width="20" height="20"></a></td>
