@@ -162,6 +162,6 @@ https://proyectosubwaydatastudio18.streamlit.app/Introduccion
 </table>
 
 
-#video
-https://www.youtube.com/watch?v=bjpfoonK5ZA
+# video
+[video]https://www.youtube.com/watch?v=bjpfoonK5ZA
 
