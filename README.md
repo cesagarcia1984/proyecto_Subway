@@ -21,7 +21,6 @@ A continuación se lista el contenido de este archivo, seleccione una opción de
 - [Diccionario](#diccionario-de-datos)
 - [Modelo de Recomendación de Machine Learning](#modelo-de-recomendación-de-machine-learning)
 - [Colaboradores](#Equipo-Data-Studio18)
-- [Video](#video)
 
 
 
