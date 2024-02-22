@@ -105,7 +105,7 @@ El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA),
 ---
 
 ## Dashboard
-![dashboard](tablero.png)
+![dashboard](Imagen/dashboard_kpi.png)
 
 [Power-BI-Link](https://acortar.link/Sw1dil)
 
