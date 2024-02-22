@@ -1,6 +1,7 @@
 
-![T](Imagen/imagensub.jpeg)
-
+<p align="center">
+  <img src="Imagen/imagensub.jpeg" alt="T">
+</p>
 
 
 <h1 align="center"> Proyecto-SUBWAY </h1>
