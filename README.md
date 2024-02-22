@@ -108,9 +108,17 @@ El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA),
 
 [Power-BI-Link](https://acortar.link/Sw1dil)
 
+---
+
 ## Metodología
 
 El proyecto seguirá la metodología Scrum para la gestión y desarrollo
+![Metodología](Scrum.png)
+
+Las reuniones que se desarrollaron a lo largo del proyecto son las siguientes:
+
+* Reunión diaria del equipo (Daily Standup Meetings) 
+* Reunión de revisión del Sprit (Sprint Review Meetings)
 
 ## Diagrama de Entidad-Relación (ERD)
 
