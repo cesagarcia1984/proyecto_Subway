@@ -112,7 +112,8 @@ El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA),
 
 ## Metodología
 
-El proyecto seguirá la metodología Scrum para la gestión y desarrollo
+El proyecto seguirá la metodología Scrum para la gestión y desarrollo de los avances. El flujo que se sigue para la continuidad del proyecto bajo esta metodología se muestra en la siguiente imagen.
+
 ![Metodología](Imagen/Scrum.png)
 
 Las reuniones que se desarrollaron a lo largo del proyecto son las siguientes:
