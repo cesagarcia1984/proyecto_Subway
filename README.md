@@ -150,7 +150,7 @@ https://proyectosubwaydatastudio18.streamlit.app/Introduccion
       <td>Anabel Jimenez</td>
       <td>Anabeljimenezh19@gmail.com</td>
       <td>Data Engineer | Data Science</td>
-      <td><a href="https://www.linkedin.com/in/anabelgimenez/"><img src="Imagen/linkedin.png" alt="LinkedIn logo" width="20" height="20"></a></td>
+      <td><a href="https://www.linkedin.com/in/anabel-jimenez-huerta/"><img src="Imagen/linkedin.png" alt="LinkedIn logo" width="20" height="20"></a></td>
     </tr>
     <tr>
       <td>Blas Fernando Pacios</td>
