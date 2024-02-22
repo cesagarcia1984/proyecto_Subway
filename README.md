@@ -1,6 +1,6 @@
-<p align="center">
-  ![dashboard](imagensub.jpeg)
-</p>
+
+  !(imagensub.jpeg)
+
 
 
 <h1 align="center"> Proyecto-SUBWAY </h1>
