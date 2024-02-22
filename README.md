@@ -56,10 +56,9 @@ es Mejorar la calidad de servicio y la satisfacción de clientes de Subway a tra
 
 
 ## Alcance del Proyecto
-El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA), considerando la integración de información proveniente de Yelp y Google Maps. Se utilizarán herramientas como Streamlit. El modelo de recomendación de Machine Learning incorporará análisis de sentimientos, técnicas de procesamiento de lenguaje natural (NLP) y considerará restaurantes de las cadenas  de SUBWAY de los  estados de NEW YORK , PENSILVANIA Y FLORIDA para mejor la calidad  del servicio y aumentar las ventas.
+El proyecto abarcará el proceso ETL y el Análisis Exploratorio de Datos (EDA), considerando la integración de información proveniente de Yelp y Google Maps. Se utilizarán herramientas como Streamlit. El modelo de recomendación de Machine Learning incorporará análisis de sentimientos, técnicas de procesamiento de lenguaje natural (NLP) y considerará restaurantes de las cadenas  de SUBWAY de los  estados de Nueva York , Pensilvania y Florida para mejorar la calidad  del servicio y aumentar las ventas.
 
-### Kpi´s
-
+### Key Performance Indicators
 
 
 <!DOCTYPE html>
