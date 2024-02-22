@@ -1,4 +1,6 @@
-![Imagen del proyecto Subway](https://github.com/cesagarcia1984/proyecto_Subway/blob/main/imagensub.jpeg)
+<p align="center">
+  <img src="https://github.com/cesagarcia1984/proyecto_Subway/blob/main/imagensub.jpeg" alt="Imagen del proyecto Subway">
+</p>
 
 
 <h1 align="center"> Proyecto-SUBWAY </h1>
