@@ -1,5 +1,5 @@
 
-  !(imagensub.jpeg)
+  !(Imagen/imagensub.jpeg)
 
 
 
