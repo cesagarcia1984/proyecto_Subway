@@ -129,6 +129,10 @@ Para visualizar la estructura de la base de datos utilizada en este proyecto, se
 ![D-E-R](https://github.com/cesagarcia1984/proyecto_Subway/blob/7582fe3bc231f8b2b2920e8454f3deca7ddace1a/Imagen/Diagrama%20Entidad%20Relacion.png
 )
 
+# Carga automatizada - GCP
+
+![ETL](Imagen/gif3.gif)
+
 # Deploy del Modelo de recomendación - ML
 
 https://proyectosubwaydatastudio18.streamlit.app/Introduccion
