@@ -6,6 +6,7 @@
 <h1 align="center"> Proyecto-SUBWAY </h1>
 
 ## Menú de Navegación
+A continuación se lista el contenido de este archivo, seleccione una opción del listado para dirigirse al contenido.
 
 - [Objetivos del Proyecto](#objetivos-del-proyecto)
 - [Alcance del Proyecto](#alcance-del-proyecto)
